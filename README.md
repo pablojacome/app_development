@@ -14,3 +14,6 @@ La aplicación fue construida con Streamlit, Plotly Express y Pandas.
 
 Ejecuta el siguiente comando desde la carpeta donde está `app.py`: streamlit run app.py
 
+La aplicación está desplegada en Render. Puedes probarla aquí:  
+👉 https://vehicles-app-b94r.onrender.com
+
